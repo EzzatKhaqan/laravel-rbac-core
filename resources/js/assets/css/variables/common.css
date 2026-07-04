@@ -1,0 +1,10 @@
+:root {
+    --e-primary-color: #24b43c;
+    --e-secondary-color: #002855;
+    --e-text-color: var(--p-text-color);
+    --e-text-color-secondary: var(--p-text-muted-color);
+    --e-surface-border: var(--p-content-border-color);
+    --e-surface-card: var(--p-content-background);
+    --e-surface-hover: var(--p-content-hover-background);
+    --e-surface-overlay: var(--p-overlay-popover-background);
+}

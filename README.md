@@ -63,5 +63,5 @@ Visit `http://127.0.0.1:8000` in your browser to access the application.
 
 Once the database seeder has run successfully, log in to the dashboard using these credentials:
 
-* **Email:** `admin@ezat.com`
+* **Email:** `admin@ezzat.com`
 * **Password:** `password`
