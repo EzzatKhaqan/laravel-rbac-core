@@ -30,6 +30,10 @@ npm install
 Copy the example environment file and generate your application key:
 ```bash
 cp .env.example .env
+VITE_API_URL=http://localhost:8000/api/
+VITE_TOKEN_KEY="rbac_token"
+VITE_USER_KEY="rbac_user"
+VITE_AUTHENTICATED_KEY="isAuthenticated"
 php artisan key:generate
 ```
 
