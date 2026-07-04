@@ -16,7 +16,7 @@ Follow these steps to set up and run the application locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/EzzatKhaqan/laravel-rbac-core.git
 cd laravel-rbac-core
 ```
 
