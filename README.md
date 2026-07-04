@@ -42,6 +42,11 @@ DB_PORT=3306
 DB_DATABASE=your_database_name
 DB_USERNAME=your_database_user
 DB_PASSWORD=your_database_password
+
+VITE_API_URL=http://localhost:8000/api/
+VITE_TOKEN_KEY="rbac_token"
+VITE_USER_KEY="rbac_user"
+VITE_AUTHENTICATED_KEY="isAuthenticated"
 ```
 
 ### 5. Run Migrations and Seed Default Data
